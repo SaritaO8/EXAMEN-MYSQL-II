@@ -15,6 +15,3 @@ Este proyecto contiene consultas SQL para analizar el rendimiento de vendedores 
 3. Clientes con nombre "Carlos"
 4. Vendedores con y sin ventas
 5. Vista resumen de ventas
-
-## Autor
-Estudiante de desarrollo ✨
