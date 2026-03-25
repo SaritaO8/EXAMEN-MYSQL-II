@@ -1,0 +1,5 @@
+-- CONSULTA 2
+-- Propiedades entre 150M y 400M
+SELECT *
+FROM propiedades
+WHERE precio BETWEEN 150000000 AND 400000000;
